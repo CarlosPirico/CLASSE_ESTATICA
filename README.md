@@ -5,6 +5,8 @@ Este projeto é uma biblioteca simples em Java que realiza conversões entre dif
 - Distâncias de quilômetros para milhas.
 - Massas de gramas para libras.
 
+![Diagrama](/assets/diagrama/DiagramaClasse.jpg)
+
 ### 📋 Pré-requisitos
 - JAVA 22.0.2
 - [Download do JAVA](https://www.oracle.com/java/technologies/javase/22-0-2-relnotes.html)
